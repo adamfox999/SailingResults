@@ -366,7 +366,7 @@ export default function PortalPage() {
         <header className={styles.header}>
           <div>
             <h1>Race day portal</h1>
-            <p>Sign into Supabase, register for series, and sign on for today's racing in one place.</p>
+            <p>Sign into Supabase, register for series, and sign on for today&rsquo;s racing in one place.</p>
           </div>
           <div className={styles.headerLinks}>
             <Link href="/" className={styles.linkButton}>
