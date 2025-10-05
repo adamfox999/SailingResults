@@ -157,6 +157,11 @@ the profile page once authentication completes.
 - **Frontend (Render static site):** `npm install && npm run build` as build command,
   `npm run start` if deploying as a Node service. Configure `NEXT_PUBLIC_API_BASE_URL`
   to point at the deployed FastAPI endpoint.
+- **Frontend (Netlify):** add the repo as a **Monorepo** site, set the base directory to
+    `frontend`, the build command to `npm run build`, and the publish directory to
+    `.netlify/next`. Ensure `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, and
+    `NEXT_PUBLIC_API_BASE_URL` are defined in Site settings → Environment variables. The
+    included `netlify.toml` wires up the official Next.js plugin automatically.
 
 ## Offline packaging
 
