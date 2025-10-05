@@ -12,16 +12,16 @@
     "@supabase/supabase-js": "2.45.2",
     "clsx": "2.1.1",
     "dotenv": "^16.4.5",
-    "next": "^15.0.3",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "next": "^15.6.0-canary.44",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "swr": "2.3.0",
     "swsc-monorepo": "file:.."
   },
   "devDependencies": {
     "@types/node": "^22.7.4",
-    "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.1",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
     "eslint": "^9.11.1",
     "eslint-config-next": "^15.0.3",
     "typescript": "^5.6.3"
