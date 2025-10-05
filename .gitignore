@@ -37,6 +37,7 @@ backend/data/*_local_backup.json
 backend/.env
 frontend/.env.local
 frontend/.env.*
+!frontend/.env.local.example
 
 # Node / Next.js artefacts
 node_modules/

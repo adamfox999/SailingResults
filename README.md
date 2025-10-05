@@ -97,7 +97,7 @@ site. Grant the service role key access to both tables when hosting on Supabase.
 Sailors can maintain their personal profile at `/profile`. The page uses Supabase Auth
 for registration and relies on a `profiles` table in Supabase to store extra metadata.
 
-Expose these values to the frontend (e.g. via `frontend/.env.local`):
+Expose these values to the frontend (e.g. copy `frontend/.env.local.example` to `frontend/.env.local` and fill in the values):
 
 - `NEXT_PUBLIC_SUPABASE_URL`
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
