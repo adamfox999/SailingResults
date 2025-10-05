@@ -1,0 +1,5 @@
+RH3,Richard Hargreaves,,RS 300,373,982,S,G
+RFD,Robert Finch,,DART 18,6223,1033,M,G
+IL7,Alex Smith,,ILCA 7,210345,0,S,S
+IL6,Jamie Lee,,ILCA 6,198765,0,S,S
+RA7,Chris Brown,,RS AERO 7,4567,1010,S,G

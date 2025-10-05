@@ -1,0 +1,19 @@
+{
+  "name": "swsc-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "setup:backend": "cd backend && python -m venv .venv && .venv\\Scripts\\python -m pip install --upgrade pip && .venv\\Scripts\\python -m pip install -r requirements.txt",
+    "setup:frontend": "cd frontend && npm install",
+    "setup": "npm-run-all setup:backend setup:frontend",
+  "dev:backend": "cd backend && .venv\\Scripts\\uvicorn app.main:app --reload --env-file .env",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "npm-run-all": "^4.1.5"
+  }
+}

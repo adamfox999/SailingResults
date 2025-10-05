@@ -1,0 +1,292 @@
+.container {
+  padding: 2rem 3rem;
+  max-width: 1200px;
+  gap: 0.75rem;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #0f172a;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.linkButton {
+
+.headerActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+  border-radius: 8px;
+  border: 1px solid #cbd5f5;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  background: #f1f5f9;
+  color: #1e293b;
+  transition: background 0.2s ease;
+}
+
+.linkButton:hover {
+  background: #e2e8f0;
+}
+
+.header h1 {
+  font-size: 2.25rem;
+  margin: 0;
+}
+
+.tagline {
+  margin: 0;
+  color: #475569;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 8px 24px -16px rgba(15, 23, 42, 0.2);
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.sectionActions {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.formRow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.schedulePickerBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.schedulePickerBlock label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.schedulePickerControls {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.schedulePickerControls select {
+  flex: 1;
+  border: 1px solid #cbd5f5;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+}
+
+.formRow label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.readOnlyField {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.readOnlyLabel {
+  font-size: 0.95rem;
+}
+
+.readOnlyValue {
+  border: 1px solid #cbd5f5;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+  background: #f8fafc;
+  color: #0f172a;
+  min-height: 38px;
+  display: flex;
+  align-items: center;
+}
+
+.formRow input,
+.entryTable input,
+.entryTable select {
+  border: 1px solid #cbd5f5;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.actions button,
+.sectionActions button,
+.rowActions button {
+  border-radius: 8px;
+  border: none;
+  padding: 0.65rem 1.25rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.ghostButton {
+  background: #f1f5f9;
+  color: #1e293b;
+}
+
+.danger {
+  color: #ef4444;
+  background: transparent;
+}
+
+.actions button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+.entryTable {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 760px;
+}
+
+.entryTable th,
+.entryTable td {
+  border-bottom: 1px solid #e2e8f0;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.rowActions {
+  width: 40px;
+  text-align: center;
+}
+
+.error {
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+.muted {
+  margin: 0;
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.resultsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.resultTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.resultTable th,
+.resultTable td {
+  border: 1px solid #e2e8f0;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.summaryDetails {
+  margin-top: 1.5rem;
+  background: #f8fafc;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.summaryDetails pre {
+  margin-top: 0.75rem;
+  max-height: 300px;
+  overflow: auto;
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.sectionMeta {
+  display: flex;
+  gap: 0.75rem;
+  color: #64748b;
+  font-weight: 600;
+}
+
+.helm {
+  display: block;
+  font-weight: 600;
+}
+
+.crew {
+  display: block;
+  color: #64748b;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 720px) {
+  .container {
+    padding: 1.5rem;
+  }
+
+  .sectionActions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 720px) {
+  .header {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+
+  .headerActions {
+    align-items: center;
+  }
+}

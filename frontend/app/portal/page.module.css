@@ -1,0 +1,277 @@
+.container {
+  min-height: 100vh;
+  padding: 3rem 1.5rem 4rem;
+  background: linear-gradient(180deg, #eef2ff 0%, #f8fafc 100%);
+  display: flex;
+  justify-content: center;
+  color: #0f172a;
+}
+
+.inner {
+  width: min(1100px, 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: clamp(2rem, 1.6rem + 1vw, 2.6rem);
+}
+
+.header p {
+  margin: 0.4rem 0 0;
+  max-width: 420px;
+  color: #475569;
+}
+
+.headerLinks {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.linkButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 0.9rem;
+  border-radius: 0.75rem;
+  background: #2563eb;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s ease;
+}
+
+.linkButton:hover {
+  background: #1d4ed8;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 1.2rem;
+  padding: 1.75rem;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+  border: 1px solid rgba(148, 163, 184, 0.14);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.authCard {
+  gap: 1rem;
+}
+
+.authForm {
+  display: grid;
+  gap: 1rem;
+}
+
+.authForm input {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(100, 116, 139, 0.35);
+  font-size: 1rem;
+}
+
+.primaryButton,
+.secondaryButton,
+.iconButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  border-radius: 0.75rem;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.primaryButton {
+  background: #2563eb;
+  color: #fff;
+  padding: 0.6rem 1.1rem;
+}
+
+.primaryButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.secondaryButton {
+  background: rgba(37, 99, 235, 0.12);
+  color: #1d4ed8;
+  padding: 0.55rem 1rem;
+}
+
+.secondaryButton:hover {
+  background: rgba(37, 99, 235, 0.2);
+}
+
+.iconButton {
+  background: transparent;
+  color: #1f2937;
+  padding: 0.3rem 0.5rem;
+}
+
+.iconButton:hover {
+  color: #ef4444;
+}
+
+.muted {
+  color: #64748b;
+  margin: 0;
+}
+
+.error {
+  color: #b91c1c;
+  background: rgba(248, 113, 113, 0.18);
+}
+
+.success {
+  color: #166534;
+  background: rgba(134, 239, 172, 0.18);
+}
+
+.statusMessage {
+  padding: 0.7rem 1rem;
+  border-radius: 0.75rem;
+  font-weight: 500;
+}
+
+.signedInHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.formGrid input,
+.formGrid select,
+.notesField textarea {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(100, 116, 139, 0.35);
+  font-size: 1rem;
+}
+
+.crewSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.crewList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.crewRow {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.crewRow input {
+  flex: 1;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(100, 116, 139, 0.35);
+}
+
+.notesField textarea {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.sectionHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.seriesList,
+.raceList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.checkboxRow {
+  display: flex;
+  gap: 0.65rem;
+  align-items: center;
+  padding: 0.45rem 0.65rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(148, 163, 184, 0.32);
+  background: rgba(248, 250, 252, 0.7);
+}
+
+.checkboxRow input {
+  transform: scale(1.1);
+}
+
+.buttonRow {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.resultList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.resultTitle {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.resultMeta {
+  color: #64748b;
+  font-size: 0.9rem;
+  margin-left: 0.35rem;
+}
+
+.seriesSelector select {
+  margin-top: 0.35rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(100, 116, 139, 0.35);
+  font-size: 1rem;
+}
+
+@media (max-width: 720px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .buttonRow {
+    flex-direction: column;
+  }
+
+  .crewRow {
+    flex-direction: column;
+  }
+}

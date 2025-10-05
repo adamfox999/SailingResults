@@ -1,0 +1,288 @@
+ABH,Andy Bunyan,,HARRIER,,1058,M,S
+ABSX, Andy Bunyan,,SHADOW X,,1247,M,S
+AB15,Andy Bunyan,,SPRINT 15,1546,1116,M,S
+ABU,Andy Bunyan,,UNICORN,,0,M,S
+ABVAB,Andy Bunyan,Andy Binstead,RS VISION,,0,M,S
+ABP,A Benseddik,,LASER PICO,,1400,J,S
+ABR,A Benseddik,,LASER RADIAL,,1151,J,S
+ABL,A Benseddik,,LASER,,1428,J,S
+AB4,A Benseddik,,LASER 4.7,,0,J,S
+AB16,A Benseddik,Wiwi,DART 16 SLOOP D/H,,0,J,S
+ABP,Alana Bowman,,LASER PICO,,0,S,S
+ACP,Arron Cumings,,LASER PICO,,0,S,S
+ACPP,Adam Crehan-clark,,LASER PICO,,0,S,S
+AFL,Adam Fox,,LASER,,948,S,S
+AFF,Adam Fox,Isla Fox,RS FEVA,,1009,S,S
+AFFXIF,Adam Fox,Isla Fox,RS FEVA XL,,1200,S,S
+AFFX,Adam Fox,,RS FEVA XL,,1200,S,S
+AFVRE,Adam Fox,Russel Ellson,RS VISION,,0,S,G
+AHS,Anthony Harris,,SOLO,1584,1027,G,S
+ASS,Alan Southwell,,STREAKER,640,1270,G,S
+AML,Andy Morley,,LASER,174932,1126,M,S
+AMR,Andy Morley,,LASER RADIAL,174932,1078,M,S
+ARL,Andy Ralphs,,LASER,,1200,M,S
+ARLR,Andy Ralphs,,LASER RADIAL,,1200,M,S
+ARL4,Andy Ralphs,,LASER 4.7,,1290,M,S
+BSS,Bill Strange,,STREAKER,1791,1060,G,G
+BS368,Bill Strange,,LIGHTNING 368,,1024,G,G
+CAM,Charles Adams,,MIRROR (S/H),,0,G,S
+CAS,Charles Adams,,SOLO,4188,1098,G,S
+CCVSD,Colin Claser,Stephen Dunn,RS VISION,,0,M,G
+CCVST,Colin Clasper,Simone Tomai,RS VISION,,0,M,G
+CHBDL,Charlotte Howard,Dan Luckett,BUZZ,,1121,S,S
+CHT,Charlotte Howard,,TOPPER,45045,985,S,S
+CLTDL,Charlotte Luckett,Dan Luckett,TASAR,,1130,S,S
+CJR,Chris Janes,,LASER RADIAL,,1106,M,S
+CMP,Chris Maher,,PHANTOM,,1043,M,S
+CM15,Chris Maher,,SPRINT 15,,1100,M,S
+CMV,Chris Maher,,RS VISION,,1262,M,S
+CMVBM,Chris Maher,Ben Maher,RS VISION,,1262,M,S
+CMVNB,Chris Maher,Nic Baker,RS VISION,,1262,M,S
+CPL16MP,Charlie Palmer,Mark Patten,LASER 16,,0,M,S
+CPL,Courtney Perry,,LASER,,1198,J,S
+CO2,Colin Clasper,Rachel Slater,2000,,1209,M,G
+COD,Colin Clasper,,DEVOTI D-ZERO,,998,M,G
+CODB,Colin Clasper,,DEVOTI D-ZB,,993,M,G
+COL,Colin Clasper,,LASER,186841,965,M,G
+COR,Colin Clasper,,LASER RADIAL,186841,1092,M,G
+CO3,Colin Clasper,,RS 300,,0,M,G
+CO4,Colin Clasper,,LASER 4.7,186841,1174,M,G
+CC200RS,Colin Clasper,Rachel Slater,RS 200,,0,M,G
+CWD,Colin Wright,,DART 18,,1319,G,S
+CWL,Colin Wright,,LASER,,1025,G,S
+CWR,Colin Wright,,LASER RADIAL,,1040,G,S
+CW2,Colin Wright,,LASER II,,1150,G,S
+CW14,Colin Wright,Mark Patten ,B14,,1496,G,S
+CW15,Colin Wright,,SPRINT 15,,1367,G,S
+DBS,David Barr,,SOLO,,982,S,S
+DGC,Dave Grummitt,,CHALLENGER,,1206,G,S
+DHL,Dave Harrison,,LASER,153490,995,G,G
+DHR,Dave Harrison,,LASER RADIAL,,961,G,G
+DHS,Dave Harrison,,SOLO,,1009,G,G
+DH8,Dave Harrison,,ROOSTER 8.1,295,1002,G,G
+DLL,Dan Luckett,,LASER,,1285,S,S
+DLR,Dan Luckett,,LASER RADIAL,,1413,S,S
+DTV,Dan Treloar,Toby,RS VISION,,1129,S,G
+DT3,Dan Treloar,,RS 300,417,1014,S,G
+EKLR,Ed Karklas,,LASER RADIAL,,995,S,G
+EKW,Ed Karklas,,WANDERER,,1244,S,S
+EKFMK,Ed Karklas,Martha Karklas,RS FEVA XL,,1244,S,S
+EKVMK,Ed Karklas,Martha Karklas,RS VISION,,1244,S,S
+EBR,Emily Binstead,,LASER RADIAL,,0,J,S
+ESTAS,Emma Southwell,Alan Southwell,TASAR,2508,1276,S,S
+ESTO,Emma Southwell,,TOPPER,,992,S,S
+ESR,Emma Southwell,,LASER RADIAL,,998,S,S
+ESS,Emma Southwell,,STREAKER,,980,S,S
+ESLP,Eti Salpeter,,LASER PICO,,0,M,S
+FWR,Finn Wiley,,LASER RADIAL,,1291,J,S
+GES,Grayson Eacott,,SOLO,4491,1019,G,S
+GEIC,Grayson Eacott,,CANOE INTERNATIONAL,,0,G,S
+GHL,Gerry Howcroft,,LIGHTNING 368,152,1434,M,S
+GWS,Graham Wiley,,SOLO,,1099,G,S
+GFA,Gareth Farr,,A CLASS,,0,M,G
+IOL,Ian Orman,,LASER,,0,J,S
+IL7,Alex Smith,,ILCA 7,210345,0,S,S
+IR16,Ian Rhodes-Ellson,,HOBIE 16,,1387,S,S
+IRFX1,Ian Rhodes-Ellson,,HOBIE FX1,,1273,S,S
+IHK1,Ian Howard,,K1,,1059,G,S
+IHP,Ian Howard,,PHANTOM,,993,G,S
+IHW,Ian Howard,,WAYFARER,,0,M,S
+IP15,Ian Pasquet,,SPRINT 15, ,1341,M,S
+IPL,Ian Pasquet,,LASER,123646,981,M,S
+IP2,Ian Pasquet,,LASER II,,1136,M,S
+IPR,Ian Pasquet,,LASER RADIAL,123646,1035,M,S
+IP8,Ian Pasquet,,ROOSTER 8.1,,1092,M,S
+IPA,Ian Pasquet,Claire,ALBACORE,,0,M,S
+IPZ,Ian Pasquet,,DEVOTI D-ZERO,,1028,M,S
+IPLA,Ian Parish,,LASER,,972,S,S
+IPG,Ian Parish,,GRADUATE,,0,G,G
+IPS,Ian Parish,,STREAKER,1886,947,G,G
+IP3,Ian Parish,,LIGHTNING 368,,923,G,G
+IPA2,Ian Parish,,LASER II FUN,,1028,G,G
+ISL,Ian Squire,,LASER,,980,M,S
+ISR,Ian Squire,,LASER RADIAL,,970,M,S
+JD18,James Davey,,DART 18,,1089,M,S
+JASH,Jack Stockford,,HERON,8652,0,S,S
+JBP,Jodie Bowman,,LASER PICO,,0,S,S
+JBL,J Benseddik,,LASER,,0,J,S
+JBR,J Benseddik,,LASER RADIAL,,1127,J,S
+JB4,J Benseddik,,LASER 4.7,,0,J,S
+JBV,J Benseddik,,RS VISION,,0,J,S
+JDS,James Davey,,SUPERNOVA,,1033,M,S
+JDL,James Davey,,LASER,,1037,M,S
+JD2,James Davey,Jess Davey,2000,,1134,M,S
+JD2000RC,Jess Day,Rich Cook,2000,,0,M,S
+JDV,Jess Day,,RS VAREO,,0,M,S
+JEL,Joe Eldred,,LASER,,1148,J,S
+JFS,Jon Finch,,SPRINT 15,1890,1013,M,G
+JF2TV,Jenny Fuller,Terry Van Rijn,LASER II,,1097,S,S
+JF4,Jenny Fuller,,LASER 4.7,8,1168,S,S
+JFL,Jenny Fuller,,LASER,8,1291,S,S
+JHT,James Hargreaves,,TOPPER,,0,S,S
+JN18SD,John Neal,Steven Dunne,DART 18,,1337,M,S
+JN2,John Neale,,LASER II,,1073,M,S
+JN5SD,John Neal,Steven Dunne,505,,1202,M,S
+JN2000SD,John Neal,Steven Dunne,2000,,1130,M,S
+JN15,John Neal,,SPRINT 15,,1317,M,S
+JNW,John Neal,Sid,WAYFARER,,1179,M,S
+JNASD,John Neal,Steven Dunne,ALBACORE,,1403,M,S
+JP3,Jack Pasquet,,RS 300,0,1500,J,S
+JPL,Jack Pasquet,,LASER,0,1134,J,S
+JPR,Jack Pasquet,,LASER RADIAL,0,1124,J,S
+JP8,Jack Pasquet,,ROOSTER 8.1,0,1132,J,S
+JP4,Jack Pasquet,,LASER 4.7,0,1137,J,S
+JP18CW,Jack Pasquet,Colin Wright,DART 18,0,1331,J,S
+JSF,Jack Stockford,,FIREFLY,,1016,S,S
+JR3,Jamie Ratcliffe,,LIGHTNING 368,,1203,S,S
+JRV,Jamie Ratcliffe,NH,RS VISION,,1293,S,S
+JRL,Jamie Ratcliffe,,LASER,,1436,S,S
+JSS,John Simm,,STREAKER,,1022,G,G
+JSZ,Jim Strother,,DEVOTI D-ZERO,,992,G,S
+JWLA,Joel Walker,,LASER,,1111,S,G
+JWR,John Wright,,LASER RADIAL,108409,1050,G,S
+JWA,John Williamson,,ALBACORE,,1123,G,S
+JWS,John Williamson,,SOLO,3043,1045,G,S
+JWL,John Williamson,,LIGHTNING 368,,1300,G,S
+JWVDS,Joel Walker,Dan Smithbury,RS VISION,,0,S,G
+KBL,KBenseddik,,LASER,,1192,M,S
+KBWIB,Ken Brickelbank,Ian,WAYFARER,6958,1009,G,S
+KBWYG,Ken Brickelbank,Yossi Galiko,WAYFARER,,0,G,S
+LWD,Luke Wilcox,,DART 18,,1155,S,S
+MBBJE,Matt Butler,Joe Eldred,BUZZ,748,968,S,G
+MBB,Matt Butler,,BUZZ,748,1003,S,G
+MBE,Mike Blyth,,ENTERPRISE,,1167,S,G
+MB3,Matt Butler,,RS 300,373,1039,S,G
+MB6,Matt Butler,,RS 600,649,1040,S,G
+MBL,Mike Blyth,,LASER,,1070,S,G
+MHR,Mark Hejl,,LASER RADIAL,,984,M,S
+MH100,Mark Hejl,,RS 100 8.4,,0,M,S
+MH4,Mark Hejl,,LASER 4.7,,941,M,S
+MHL,Mark Hejl,,LASER,,990,M,S
+MH400,Mark Hejl,,RS 400,,1064,M,S
+MH400AB,Mark Hejl,Andy Bunyan,RS 400,,1064,M,S
+MH400RD,Mark Hejl,Rob Doolan,RS 400,,1064,M,S
+MH8,Mark Hejl,,ROOSTER 8.1,,1008,M,S
+MPL,Mark Patten,,LASER,,1017,M,S
+MPR,Mark Patten,,LASER RADIAL,,1016,M,S
+MPD,Mark Patten,,DART 18,5030,1128,M,S
+MP4,Mark Patten,,RS 400,,1225,M,S
+MP8,Mark Patten,,ROOSTER 8.1,,1070,M,S
+MP15,Mark Patten,,SPRINT 15,,1324,M,S
+MPSS15,Mark Patten,,SPRINT 15 SPORT,,1131,M,S
+MPVTH,Mark Pattern,Thomas Harris,RS VISION,,0,M,S
+MP18,Mark Patten,Colin Wright,DART 18,5030,1164,M,S
+MP18JD,Mark Patten,Jess Day,DART 18,5030,1164,M,S
+MP18JB,Mark Patten,Jodie Bowman,DART 18,5030,1164,M,S
+MP3,Matt Pedlow,,RS 300,451,972,S,G
+MTL,Martin Thomas,,LIGHTNING 368,69,1082,G,S
+NJS,Nick Jones,,SOLO,4675,1059,G,S
+NNC,Nick Neale,,COMET,,0,M,S
+NRD,Neal Rushden ,,DART 18,5162,1181,M,S
+NRS,Neal Rushden ,,STEALTH,,1268,M,S
+NSA,Neville Soderberg,,ALBACORE,1789,1141,G,S
+PBL,Paul Bacon,,LASER,,1329,M,S
+PB3,Paul Bacon,,RS 300,414,1079,M,S
+PB400,Paul Bacon,Simon Burbridge,RS 400,,0,M,S
+PCR,Paul Cooper,,LASER RADIAL,,0,M,S
+PE3,Pete Ellis,,RS 300,500,953,M,G
+PTL,Pete Taylor,,LASER,,1329,M,S
+PKO,Philip Kent,,TOPAZ OMEGA,,0,M,S
+RDL,Rob Doolan,,LASER,,1114,S,S
+RDR,Rob Doolan,,LASER RADIAL,,1308,S,S
+RCL,Ron Clark,,LASER,165547,967,G,S
+RCR,Ron Clark,,LASER RADIAL,165547,1097,G,S
+RCC,Ron Clark,,CHALLENGER,165547,1010,G,S
+REP,Russel Ellson,,PHANTOM,,1058,G,S
+REVIR,R Ellson,Ian Rhodes-Ellson,LASER VAGO XD,,1246,M,S
+REVAF,Russel Ellson,Adam Fox,RS VISION,,0,S,G
+RFS,Robert Finch,,SPRINT 15,1838,990,M,G
+RFD,Robert Finch,,DART 18,6223,1033,M,G
+RH2,Richard Hargreaves,,RS 200,1418,942,S,G
+RH2JH,Richard Hargreaves,James Hargreaves,RS 200,1418,942,S,G
+RH2CB,Richard Hargreaves,Connie Binstead,RS 200,1418,942,S,G
+RH2EB,Richard Hargreaves,Emily Binstead,RS 200,1418,942,S,G
+RH2RF,Richard Hargreaves,Roger Folwer,RS 200,1418,942,S,G
+RH3,Richard Hargreaves,,RS 300,373,979,S,G
+RH400CC,Richard Hargreaves,Colin Clasper,RS 400,,0,S,G
+RH400JB,Richard Hargreaves,Jodie Bowman,RS 400,,0,S,G
+RHV,Richard Hargreaves,James,RS VISION,,990,S,G
+RHD,Robin Hall,S/H or Crew,DART 18,6223,1134,G,G
+RHK1,Robin Hall,,K1,6223,1040,G,G
+RM4,Rhys Mason,,LASER 4.7,,0,J,S
+RMVSM,Russel Macinionn,Shane Macinionn,RS VISION,,0,S,S
+RUMR,Russel Macinionn,,LASER RADIAL,,0,S,S
+RP15S,Richard Page,,SPRINT 15 SPORT,,1077,M,S
+RP15,Richard Page,,SPRINT 15,,1203,M,S
+RPS,Richard Page,,SUPERNOVA,,1149,M,S
+RTR,Richard Thompson,,LASER RADIAL,,1029,M,S
+RTS,Richard Thompson,,SOLO,3362,1012,M,S
+RF7,Roger Fowler,,RS AERO 7,,1070,M,S
+RF6,Roger Fowler,,RS AERO 6,,1051,M,S
+RF5,Roger Fowler,,RS AERO 5,,1101,M,S
+RF2,Roger Fowler,,RS 200,,1164,M,S
+RF2ST,Roger Fowler,Simone Tomai,RS 200,,0,M,S
+RF2EK,Roger Fowler,Ed Karklas,RS 200,,0,M,S
+RF2SB,Roger Fowler,Sarah Binstead,RS 200,,1164,M,S
+SRD,Simon Raglione,,DEVOTI D-ZERO,,1100,M,S
+SB2,Sarah Binstead,,RS 200,8,1257,S,S
+SB2RF,Sarah Binstead,Roger Fowler,RS 200,8,1257,S,S
+SBL,Sarah Binstead,,LASER,8,1069,S,S
+SB4,Sarah Binstead,,LASER 4.7,8,1168,S,S
+SBLR,Sarah Binstead,,LASER RADIAL,855,1069,S,S
+SBVEB,Sarah Binstead,Emily Binstead,RS VISION,0,0,S,S
+SB3,Simon Burbridge,,RS 300,,0,G,S
+SHTGH,Sue Howcroft,Gerry Howcroft,TASAR,660,994,G,G
+SHK2GH,Sue Howcroft,Gerry Howcroft,K2,,0,G,G
+SHK2GHS,Sue Howcroft,Gerry Howcroft,K2 SPIN,,0,G,G
+SHL,Sue Howcroft,,LIGHTNING 368,73,1042,G,G
+SHLS,Sue Howcroft,,LIGHTNING SR,73,1042,G,G
+SM4,Shane Macinionn,,LASER 4.7,,1099,M,G
+SMR,Shane Macinionn,,LASER RADIAL,,1022,M,G
+SML,Shane Macinionn,,LASER,,1036,M,G
+SNS,Scott Neale,,SOLO,,1050,S,S
+SNMJS,Scott Neale,Jack Stockford,MIRACLE,,1050,S,S
+STP,Simone Tomai,,LASER PICO,,0,S,S
+SWD,Scott Wilcox,,DART 18,,1074,M,S
+SWL,Scott Wilcox,,LASER,,1013,M,S
+SWR,Sarah Walker,,LASER RADIAL,,0,M,G
+SWLR,Scott Wilcox,,LASER RADIAL,,1025,M,S
+SWS,Scott Wilcox,,SOLO,,1050,M,S
+SWSS15,Scott Wilcox,,SPRINT 15 SPORT,,1011,G,S
+SW15,Scott Wilcox,,SPRINT 15,,1075,M,S
+SRO,Simon Raglione,,OSPREY,,1100,M,S
+SKLR,Steve Kirby,,LASER RADIAL,,1046,G,S
+SKL,Steve Kirby,,LIGHTNING 368,,1066,G,S
+SKST,Steve Kirby,,STREAKER,,1132,G,S
+SKM,Steve Kirby,,MIRROR (S/H),,1223,G,S
+SYS,Stuart Yates,,SOLO,,1300,M,S
+SY15,Stuart Yates,,SPRINT 15,,1418,M,S
+SYPV,Stuart Yates,,PHANTOM VETERAN,,1207,M,S
+TB15,Tim Browning,,SPRINT 15,1167,1151,G,G
+TBS,Tim Browning,,STREAKER,1810,1005,G,G
+TCWDH,Tim Chick,Dave Harrison,WANDERER,,0,S,G
+TML,Tim Mason,,LASER,,0,S,S
+TMVRM,Tim Mason,Rhys Mason,RS VISION,,0,S,S
+TC4,Tim Chick,,LASER 4.7,,0,S,G
+TCL,Tim Chick,,LASER,,0,S,G
+TSV,Trevor Sharp,,RS VISION,,0,S,S
+TSVRM,Trevor Sharp,Russel Makinion,RS VISION,,0,S,S
+TV4,Terry Van Rijn,,LASER 4.7,123,982,G,G
+TVL,Terry Van Rijn,,LASER,174941,967,G,G
+TVR,Terry Van Rijn,,ROOSTER 8.1,239,972,G,G
+UKL,Ugur Kuscan,,LASER,,1350,S,S
+UKLR,Ugur Kuscan,,LASER RADIAL,,1450,S,S
+WBACC,Warwick Bennet,Claire Cosenza,ALBACORE,6810,1039,M,G
+WBP,W Benseddik,,LASER PICO,,1500,J,S
+WBL,W Benseddik,,LASER,,1500,J,S
+WBR,W Benseddik,,LASER RADIAL,,1128,J,S
+WGT,William Gemmel,,TOPPER,,0,J,S
+WB4,W Benseddik,,LASER 4.7,,1186,J,S
+YGS,Yossi Galiko,,SOLO,4087,1173,M,G
+YGSC,Yossi Galiko,,SCORPION,,1269,M,G
+YGN,Yossi Galiko,,SUPERNOVA,649,1062,M,G
+YG15,Yossi Galiko,,SPRINT 15,,1010,M,G
+YGP,Yossi Galiko,,PHANTOM,,1002,M,G
+YGPEG,Yossi Galiko,,PEGASUS,,1139,M,G
+YGVIP,Yossi Galiko,Ian Pasquet,RS VISION,,0,M,G
+YGL,Yossi Galiko,,LASER,,1206,M,G
+YG2E,Yossi Galiko,Eti,LASER II,,0,M,G
